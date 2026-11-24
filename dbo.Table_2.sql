@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[MovieR]
+(
+	[MId] INT NOT NULL PRIMARY KEY
+)
